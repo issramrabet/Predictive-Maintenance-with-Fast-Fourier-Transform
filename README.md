@@ -1,6 +1,6 @@
 # Vibration Signature Analysis — Predictive Maintenance
 
-> 🎥 Demo video: [add your LinkedIn/YouTube link here]
+> 🎥 Demo video: 
 
 Predictive maintenance application for an asynchronous motor, built around a
 **Hansford HS-173HT** triaxial accelerometer + temperature sensor. It computes
