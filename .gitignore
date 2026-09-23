@@ -1,0 +1,24 @@
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+backend/*.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# ML pipeline
+ml/.venv/
+ml/data/
+ml/*.csv
+ml/*.png
+ml/__pycache__/
+backend/app/ml_models/*.joblib
+backend/app/ml_models/*.json
+
+# OS / editors
+.DS_Store
+*.swp
